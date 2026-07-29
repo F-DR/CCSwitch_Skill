@@ -1,0 +1,3 @@
+display_name: UE 通用编译
+short_description: 编译 UE 5.7 项目/插件。包含 .uplugin 编码修复、UE 5.7 API 变更适配、常见编译错误排查。
+default_prompt: Use the ue-build-general skill to compile UE 5.7 plugins or the entire project, including troubleshooting common compilation errors like .uplugin encoding issues and API changes.
