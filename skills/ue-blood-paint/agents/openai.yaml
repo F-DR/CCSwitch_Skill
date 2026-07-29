@@ -1,0 +1,4 @@
+﻿display_name: UE BloodPaint 血液绘制插件
+short_description: 在角色身体上动态绘制血液贴花的UE5插件，含编译流程和蓝图函数库
+default_prompt: Use the ue-blood-paint skill to create or compile the BloodPaint plugin for drawing blood decals on skeletal mesh characters in UE 5.7.
+
